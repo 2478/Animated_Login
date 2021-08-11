@@ -288,7 +288,14 @@ border-radius: 25px;
         max-width: fit-content;
         max-height:fit-content;
     }
-   
+    body{
+        max-width: 600px;
+        display: cover;
+    }
+   .color{
+       display: cover;
+       
+   }
     .form{
         padding: 15px;
     }
