@@ -288,10 +288,31 @@ border-radius: 25px;
         max-width: fit-content;
         max-height:fit-content;
     }
-    section .color .box{
-        max-width:600px;
-    }
+   
     .form{
         padding: 15px;
+    }
+   .box .square:nth-child(6)
+    {
+    visibility: hidden;
+    }
+    .box .square:nth-child(7)
+    {
+    visibility: hidden;
+
+    }
+    .box .square:nth-child(8)
+    {
+    visibility: hidden;
+    
+    }.box .square:nth-child(9)
+    {
+    visibility: hidden;
+    
+    }
+    .box .square:nth-child(10)
+    {
+        visibility: hidden;
+        
     }
   }
